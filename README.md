@@ -1,4 +1,4 @@
-# kidsdes
+# KiDS+DES
 
 We are releasing the chains for the combined analysis of KV450 and DES-Y1 in https://arxiv.org/abs/1906.09262.
 
