@@ -1,6 +1,6 @@
 # KiDS+DES
 
-We are releasing the central chains for the combined analysis of KiDS+VIKING-450 and Dark Energy Survey Year 1 in https://arxiv.org/abs/1906.09262.
+We are releasing the central chains for the combined analysis of the Kilo Degree Survey + VISTA Kilo Degree Infrared Galaxy Survey (KiDS+VIKING-450, or KV450) and Dark Energy Survey Year 1 (DES-Y1) in https://arxiv.org/abs/1906.09262.
 
 i) kv450 refers to KiDS+VIKING-450 (KV450).
 
