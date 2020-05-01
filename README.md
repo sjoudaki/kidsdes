@@ -1,6 +1,6 @@
 # KiDS+DES
 
-We are releasing the chains for the combined analysis of KiDS+VIKING-450 and Dark Energy Survey Year 1 in https://arxiv.org/abs/1906.09262.
+We are releasing the central chains for the combined analysis of KiDS+VIKING-450 and Dark Energy Survey Year 1 in https://arxiv.org/abs/1906.09262.
 
 i) kv450 refers to KiDS+VIKING-450 (KV450).
 
