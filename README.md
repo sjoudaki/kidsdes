@@ -10,6 +10,6 @@ iii) desy1 refers to DES-Y1 with KiDS analysis setup and spectroscopic calibrati
 
 iv) kv450desy1 refers to the combined analysis of KV450 and DES-Y1 considering a KiDS analysis setup and spectroscopic calibration of the redshift distributions.
 
-We will soon also release the likelihood code for this analysis.
+We will soon also release the likelihood code for this analysis (which is a KiDS + DES version of [CosmoLSS](https://github.com/sjoudaki/CosmoLSS)).
 
 Please feel free to contact us at shahab.joudaki@physics.ox.ac.uk if you have any questions.
