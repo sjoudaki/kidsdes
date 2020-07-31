@@ -17,14 +17,17 @@ Note that the chains contain the pre-burn phase. In order to remove the burn-in 
 the MCMC, the first 30% of the lines should not be considered. The chains are provided in 
 the "_N.txt" ascii files, with N = 1..8. For {KV450, DES-Y1, KV450 + DES-Y1}, they 
 respectively contain a total of {61, 62, 72} primary and derived parameters for the MCMC 
-samples [along with ln(likelihood x prior) and χ2 values]. They are compatible with CosmoMC 
-and its plotting utility, GetDist. The format of each line in these files is as follows:
+samples, along with ln(Likelihood x prior) and χ2 values. Please note that the amplitude 
+of likelihood x prior is neglected. The chains are obtained from CosmoMC and are compatible 
+with its plotting utility, GetDist. 
+
+The format of each line in these files is as follows:
 
 Column 1: weight of the point
 
-Column 2: -ln(likelihood x prior)
+Column 2: -ln(Likelihood x prior)
 
-Columns 3 and beyond: a list of primary and derived parameters as specified in 
+Columns 3 and beyond: a list of primary and derived parameters (and χ2) as specified in 
 the ".paramnames" files and the prior ranges are given in the ".ranges" files.
 
 Note that it is important to propagate the weight of each point in the calculation of 
