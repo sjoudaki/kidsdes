@@ -12,4 +12,4 @@ iv) kv450desy1 refers to the combined analysis of KV450 and DES-Y1 considering a
 
 We also release the likelihood code for this analysis (which is a KiDS + DES version of [CosmoLSS](https://github.com/sjoudaki/CosmoLSS)). This is provided in a single tarball (kv450desy1like.tar.gz) and includes a separate readme on the code and data products.
 
-Please feel free to contact us at shahab.joudaki@physics.ox.ac.uk if you have any questions.
+Please feel free to contact us at shahab.joudaki@ciemat.es if you have any questions.
